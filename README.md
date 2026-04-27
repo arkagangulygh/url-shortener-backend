@@ -33,4 +33,4 @@ This backend serves as the core engine of the URL Shortener application, handlin
 ```bash
 git clone https://github.com/your-username/url-shortener-backend.git
 cd url-shortener-backend
-npm install
+npm start
